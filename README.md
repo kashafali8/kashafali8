@@ -1,4 +1,4 @@
-### Hi there 👋 Thank you for visiting! I'm @kashafali8
+### Hi, Thank you for visiting! I'm @kashafali8 👋
 
 
 🌱 I'm a graduate student at Duke University in the Master of Interdisciplinary Data Science Program (MIDS).
