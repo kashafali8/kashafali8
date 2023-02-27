@@ -14,3 +14,5 @@
 2. [Wikipedia Microservice](https://github.com/kashafali8/Wiki_Microservice) (Wiki Library, Cli-fire, AWS Cloud Engineering) - Created a Microservice that returns a JSON payload and uses python wikipedia and textblob libraries to perform data engineering task, while employing a cli tool using cli-fire. I also containerised it using Docker and built Continuous Delivery of FastAPI on AWS.
 
 3. [Political Orientation Classifier For Tweets](https://github.com/kashafali8/Political-Orientation-Classifier-For-Tweets) (Naive Bayes & Bidirectional LSTM) - Designed political orientation classifiers using both generative (Naive-Bayes) and discriminative (bidirectional Long Short Term Memory Neural Networks) models with 87% accuracy for determining political inclination in tweets in the US.
+
+4. Machine Learning from Scratch: Constructing machine learning models from scratch using python: KNN, Logistic Regression and Neural Network 
