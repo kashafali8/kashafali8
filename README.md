@@ -15,4 +15,4 @@
 
 3. [Political Orientation Classifier For Tweets](https://github.com/kashafali8/Political-Orientation-Classifier-For-Tweets) (Naive Bayes & Bidirectional LSTM) - Designed political orientation classifiers using both generative (Naive-Bayes) and discriminative (bidirectional Long Short Term Memory Neural Networks) models with 87% accuracy for determining political inclination in tweets in the US.
 
-4. Machine Learning from Scratch(https://github.com/kashafali8/Machine-Learning-from-Scratch) - Constructing machine learning models from scratch using python: KNN, Logistic Regression and Neural Network 
+4. [Machine Learning from Scratch](https://github.com/kashafali8/Machine-Learning-from-Scratch) - Constructing machine learning models from scratch using python: KNN, Logistic Regression and Neural Network 
