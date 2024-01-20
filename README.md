@@ -9,7 +9,7 @@
 
 ### Duke MIDS Projects
 
-1. Neural Network Attack with Adversarial Patches - Designed CIFAR-10 adversarial patches on ResNet20 to analyze their impact on diverse Deep Neural Network architectures and sensitivity to different patch sizes. Found larger patches more successful in deceiving networks, particularly in untargeted attacks on DenseNet-121 and VGG-16, and targeted attacks to be less effective, emphasizing challenges in cross-architecture application. 
+1. [Neural Network Attack with Adversarial Patches](https://github.com/kashafali8/Neural-Network-Attack-with-Adversarial-Patches) - Designed CIFAR-10 adversarial patches on ResNet20 to analyze their impact on diverse Deep Neural Network architectures and sensitivity to different patch sizes. Found larger patches more successful in deceiving networks, particularly in untargeted attacks on DenseNet-121 and VGG-16, and targeted attacks to be less effective, emphasizing challenges in cross-architecture application. 
 
 2. Fake vs Real Faces Classification: Application for Dating Apps - Employed an advanced image classification model, specifically ResNet50, coupled with data augmentation techniques to discern fake facial images from a dataset containing 140K real and fake photos, achieving an accuracy exceeding 93%; developed innovative testing methodologies using synthetic data to underscore the challenges encountered in real-world dating applications.
 
