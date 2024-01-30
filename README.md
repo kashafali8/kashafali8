@@ -7,7 +7,7 @@
 
 📫 Here's a [link](https://www.linkedin.com/in/kashafali-ka/) to my LinkedIn Profile if you'd like to know a little more. 
 
-### Duke MIDS Projects
+### Data Science Project Portfolio
 
 1. [Neural Network Attack with Adversarial Patches](https://github.com/kashafali8/Neural-Network-Attack-with-Adversarial-Patches) - Designed CIFAR-10 adversarial patches on ResNet20 to analyze their impact on diverse Deep Neural Network architectures and sensitivity to different patch sizes. Found larger patches more successful in deceiving networks, particularly in untargeted attacks on DenseNet-121 and VGG-16, and targeted attacks to be less effective, emphasizing challenges in cross-architecture application. 
 
