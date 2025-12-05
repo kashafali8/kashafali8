@@ -1,7 +1,7 @@
 ### Hi, I'm Kashaf Ali 👋
 
 
-🌱 I'm a graduate student at Duke University in the Master of Interdisciplinary Data Science Program (MIDS).
+🌱 I'm a Data Scientist and Machine Learning Engineer with a Master’s in Data Science from Duke University and over six years of industry experience. I specialize in designing and deploying large-scale data and ML pipelines, leading end-to-end data initiatives, and mentoring cross-functional teams.
 
 💞️ I’m interested in Data-driven Storytelling, Deep Learning, Large Language Models and Computer Vision.
 
